@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-
-[![LinkedIn Porfile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/daniel-jacobo-santana) 
+<div id="shields" align="center">
+	<a href="https://www.linkedin.com/in/daniel-jacobo-santana/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://www.instagram.com/djacobosantana/" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+</div>
 
 
 <!--
