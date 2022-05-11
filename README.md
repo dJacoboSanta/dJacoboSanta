@@ -9,8 +9,10 @@
 	<b>I am a graduate of the computer engineering career and a beginner developer
 	</b>
 </p>
-<p>I am looking for a job opportunity to fulfill my goals, I strive to improve my skills as a developer practiciting every day to achive it</p>
-	<img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47part1ma5gfmoxuu7m65zuinadx6sgrse67kyao14&rid=giphy.gif" style="max-width: 100%;">
+	<img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47part1ma5gfmoxuu7m65zuinadx6sgrse67kyao14&rid=giphy.gif" style="max-width: 100%;" width="200px"
+align="right">
+
+<p>I am looking for a job opportunity to fulfill my goals, I strive to improve my skills as a developer practiciting every day to achive it.</p> 
 
 <h3> Knowlege
 	<img src="https://media4.giphy.com/media/YmunwAcgeZJaH49CrT/giphy.gif?cid=ecf05e47o7784o4vo3hrj5v4loge1di9fbfihv3ly3wfigba&rid=giphy.gif" style="max-width: 100%;" width=35px">
@@ -37,19 +39,3 @@
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
 	</a>
 </div>
-
-
-<!--
-**dJacoboSanta/dJacoboSanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
