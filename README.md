@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 https://img.shields.io/badge/LinkedIn-blue
+logo={your social network icon name}
+logoColor={color of the icon}
 
 <!--
 **dJacoboSanta/dJacoboSanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
