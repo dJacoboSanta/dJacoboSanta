@@ -1,4 +1,3 @@
-
 <div id="greeting" align="left">
 	<h2> Hello Everyone
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;" width="25px" data-canonical>, I'm Daniel
@@ -24,8 +23,8 @@ align="right">
 </p> 
 
 <div id="knowlege_badge" align="center">
-		<img src="https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
-		<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+	<img src="https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=black" alt="Python Badge">
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
 </div>
 
 <h3> Tools
@@ -37,9 +36,9 @@ align="right">
 </p>
 
 <div id="social_badge" align="center">
-		<img src="https://img.shields.io/badge/Pycharm-limegreen?style=for-the-badge&logo=Pycharm&logoColor=white" alt="PyCharm Badge">
-		<img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
-		<img src="https://img.shields.io/badge/IntelliJ Idea-F25278?style=for-the-badge&logo=Pycharm&logoColor=white" alt="IntelliJ Badge">
+	<img src="https://img.shields.io/badge/Pycharm-limegreen?style=for-the-badge&logo=Pycharm&logoColor=white" alt="PyCharm Badge">
+	<img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+	<img src="https://img.shields.io/badge/IntelliJ Idea-F25278?style=for-the-badge&logo=Pycharm&logoColor=white" alt="IntelliJ Badge">
 </div>
 
 <h3> Social 
@@ -66,16 +65,18 @@ align="right">
 <br>
 <br>
 
-<h2 align="center">
-Thank you for view my porfile
-</h2>
+
 
 <div align="center">
-	<img src="https://i.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.webp">
+	<h2 align="center">
+		Thank you for view my porfile
+	</h2>
+	<img 		src="https://i.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.webp" width="200"  height="200">
 </div>
 
 ~~~
 1| 
-2| print("Hello World")
+2| print("Goodbye")
 3|
 ~~~
+
