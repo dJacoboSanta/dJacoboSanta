@@ -6,7 +6,7 @@
 </div>
 
 <p>
-	<b>I am a graduate of the computer engineering career and a beginner developer
+	<b>I am a graduate of the computer engineering career and a beginner developer.
 	</b>
 </p>
 	<img src="https://media2.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47part1ma5gfmoxuu7m65zuinadx6sgrse67kyao14&rid=giphy.gif" style="max-width: 100%;" width="200px"
