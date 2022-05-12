@@ -69,7 +69,7 @@ align="right">
 
 <div align="center">
 	<h2 align="center">
-		Thank you for view my porfile
+		Thank you for viewing my porfile
 	</h2>
 	<img 		src="https://i.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.webp" width="200"  height="200">
 </div>
