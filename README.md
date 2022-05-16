@@ -38,7 +38,7 @@ align="right">
 <div id="social_badge" align="center">
 	<img src="https://img.shields.io/badge/Pycharm-limegreen?style=for-the-badge&logo=Pycharm&logoColor=white" alt="PyCharm Badge">
 	<img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
-	<img src="https://img.shields.io/badge/IntelliJ Idea-F25278?style=for-the-badge&logo=Intellij&logoColor=white" alt="IntelliJ Badge">
+	<img src="https://img.shields.io/badge/IntelliJ Idea-F25278?style=for-the-badge&logo=IntelliJ&logoColor=white" alt="IntelliJ Badge">
 </div>
 
 <h3> Social 
